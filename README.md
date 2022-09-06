@@ -1,3 +1,4 @@
+<img src="fiat.jpg" width="900" height="500">
 
 ## Business Context
 
