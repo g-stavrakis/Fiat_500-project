@@ -1,3 +1,5 @@
+<img src="electric_Car.jpg" width="900" height="500">
+
 ## Business Context
 
 Fiat wants to make the 500 full-electric model its best-selling one, obtaining the largest market share for small electric cars (A & B sectors).
