@@ -134,3 +134,9 @@ According to figure 7, which shows the number of comments written per topic, the
 
 Regarding the difference in sentiment between the topics, from Figure 8, a significant difference in opinions can be seen in the topics regarding issues and problems with the cars, along with the expenses for the purchase and maintenance of the car. From these topics, the audience perception about Fiat 500 brand seems to be clearly separated and improved compared to the Fiat brand, which scores significantly low on those aspects.
 Similar findings appeared by applying PMI to uncover bigrams and trigrams to identify meanings attached to those brands. The results verified that the Fiat brand seems to be associated mainly with problematic cars, with frequent bi-grams such as (‘fiat’, ‘fix’), (‘fix’, ‘tomorrow’) appearing in the comments. This doesn’t seem to be the case for the Fiat 500 brand, which draws more positive comments regarding the design of the car and some innovative features such as the pedal range model. Finally, feelings like love, fun, and passion appear to have emerged alongside this brand from an audience that appears to be excited about the new models, in contrast to conservative opinions about the traditional brand.
+
+## Recomendations
+- To gain more traction in this evolving UK market, FCA is recommended to focus their marketing resources on the targeted promotion of the electric model.
+- The main points that need to be highlighted in their marketing materials seem to be the design and the driving behaviour of the car.
+- In these materials, features that appeared to attract extremely positive comments, such as the one-pedal range, will be important to be stressed.
+- Effort to separate the new emerging brand of Fiat 500, which seems to be mostly associated with excitement and positive feelings, from the traditional Fiat brand, which is mainly associated with problematic cars.
